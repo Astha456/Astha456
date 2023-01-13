@@ -2,7 +2,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astha456" alt="astha456" /></a> </p>
+<img src="https://avatars.githubusercontent.com/u/121852074?v=4" heigh="300" width="300" >
 
+     
 - 🔭 I’m currently working on **Portfolio**
 
 - 🌱 I’m currently learning IBM **ADIT, NSTI KANPUR**
